@@ -39,7 +39,7 @@ class _SplashScreenState extends State<SplashScreen>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-//uifsduihfuidshf
+
       body:Padding(
         padding: const EdgeInsets.symmetric(horizontal: 65,vertical: 356),
         child: Row(
